@@ -58,3 +58,7 @@ results[0].show()
 ## Entrenamiento
 
 El notebook [`notebooks/train_p2_1024.ipynb`](notebooks/train_p2_1024.ipynb) contiene el pipeline completo de entrenamiento de la variante YOLOv8m-p2 en Google Colab (montaje de Drive, extracción del dataset, `yolo train` con `imgsz=960`, `cos_lr`, resume tras interrupciones de sesión, y análisis de métricas por época).
+
+## Licencia
+
+[MIT](LICENSE)
